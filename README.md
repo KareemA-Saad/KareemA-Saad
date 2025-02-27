@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KareemA-Saad
-- 👀 I’m interested in web development, software development especially back-end development 
-- 🌱 I’m currently learning .NET framework
+- 👀 I’m interested in software development and web development,  especially back-end development 
+- 🌱 I’m currently learning .NET framework, PHP full stack development
 - 💞️ I’m looking to collaborate on small projects to learn more
 - 📫 How to reach me by DM or email me @ kareemahmedsaad1999@gmail.com
 
